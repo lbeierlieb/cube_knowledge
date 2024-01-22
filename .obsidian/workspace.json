@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa2bc8a7051653bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blind/Memorization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3x3/Beginnermethode.md",
+                "file": "blind/Memorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3x3/Beginnermethode.md",
+                "file": "blind/Memorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3x3/Beginnermethode.md"
+                "file": "blind/Memorization.md"
               }
             }
           }
@@ -191,16 +203,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c83a79d4eb95d20",
+  "active": "fa2bc8a7051653bd",
   "lastOpenFiles": [
+    "blind/Memorization.md",
+    "3x3/Beginnermethode.md",
     "3x3/Home.md",
+    "3x3/Notation.md",
+    "blind",
     "Home.md",
     "4x4/Home.md",
     "2x2/Home.md",
     "4x4",
     "2x2",
-    "3x3/Beginnermethode.md",
-    "3x3/Notation.md",
     "3x3"
   ]
 }
