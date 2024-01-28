@@ -1,601 +1,601 @@
 Wörter für alle Buchstabenpaare:
 
-AA Aal
-AB Abakus
-AC ACDC
+AA_ Aal
+AB_ Andre B.
+AC_ ACDC
 AD Adventskranz
-AE Aerial Silk (Bänder)
-AF Affe
-AG Agent (Geheimagent)
+AE_ Aerial Silk (Bänder)
+AF_ Affe
+AG_ Agent (Geheimagent)
 AH Aerial Hoop
-AI AI, Boston Dynamics Roboter
-AJ Affenjule
-AK AK47
+AI_ AI, Boston Dynamics Roboter
+AJ_ Affenjule
+AK_ AK47
 AL Aluminium (Ofen)
 AM Ampel
 AN Ananas
 AO Aorta
-AP Apfel
-AQ Aquarium
-AR Armreif
-AS Assassine
+AP_ Apfel
+AQ_ Aquarium
+AR_ AR15 US-Gewehr
+AS_ Assassine
 AT Atlas
 AU Abgasuntersuchung
-AV Avocado
-AW Arrow
-AZ Atzeke
+AV_ Avocado
+AW_ AWP
+AZ_ Atzeke
 
-BA Banane
-BB BB-Kugeln
-BC Buchclub
-BD Buddha
-BE Bett
-BF Butterfly
-BG Bag
-BH BH
+BA_ Bamberg(er Reiter)
+BB_ BB-Kugeln
+BC Uhrzeitmensch
+BD Badewanne
+BE Bee
+BF_ Bifi
+BG_ Bag
+BH_ BH
 BI Birne
-BJ Banjo
-BK Burger King
-BL Blitz
+BJ_ Banjo
+BK_ Burger King
+BL Blechdose (verrostet)
 BM Batman
-BN Ballon (Heißluft)
-BO Bonbon
-BP BP Ölplattform
-BQ BBQ
+BN Bon (Kassenbon)
+BO Bombe
+BP_ BP_ Ölplattform
+BQ_ BBQ
 BR Bremsscheibe
-BS Bienenstock
-BT Bat
-BU Bus
-BV Bootsverleih
+BS_ Bullshit/Kuhfladen
+BT_ Bat
+BU_ Bus
+BV Beaver
 BW Belugawal
 BZ Buzz Lightyear
 
 CA Calzone
 CB Chess Board
-CC Mario-Kart 150cc
-CD CD-ROM
+CC_ Mario-Kart 150cc
+CD_ CD-ROM
 CE Centmünze
 CF Cuff (Handcuffs)
-CG
-CH
-CI CIO vom RZ
-CJ
+CG_ Cog Wheel Zahnradbahn Zugspitze
+CH_ Schweizer Flagge (großes Plus :P)
+CI_ CIO_ vom RZ
+CJ Carjacker
 CK Coke/Cola
-CL Rubik's Clock
-CM
-CN
-CO Coburg (Marktplatz)
-CP Kopierer
-CQ
+CL_ Rubik's Clock
+CM Calamari
+CN Cyanid (Giftzahn)
+CO_ Coburg (Marktplatz)
+CP_ Kopierer
+CQ Croquet
 CR Crab (raving)
-CS Chris S.
-CT
-CU
-CV Lebenslauf
-CW 
-CZ CZ-Pistole
+CS_ Chris S.
+CT Cybertruck
+CU Cube
+CV_ Lebenslauf
+CW_ Windkanal
+CZ_ CZ-Pistole
 
-DA
-DB Deutsche Bahn Zug
-DC
-DD Dresden (Demonstrantenmenge)
-DE
+DA_ Darmstad (Bolzplatz Fußballtor)
+DB_ Deutsche Bahn Zug
+DC_ Netzteil Gleichspannung
+DD_ Dresden (Demonstrantenmenge)
+DE Deutschlandflagge
 DF
-DG
+DG_ Daniel G.
 DH
 DI
-DJ DJ
-DK Diana
+DJ_ DJ
+DK_ Diana
 DL
 DM Dom
-DN DNM-37
-DO Dortmund JP Gebäude
+DN_ DNM-37
+DO_ Dortmund JP_ Gebäude
 DP Johnny Depp
-DQ
-DR Doktor
-DS
-DT Distrotube
-DU
-DV Dvorak/Tastatur
+DQ Rallye Dakar (Racetruck)
+DR_ Doktor
+DS_ Nintendo DS
+DT_ Distrotube
+DU_ Duplo
+DV Deja Vu (drifting AE86)
 DW
-DZ
+DZ Weihnachtskalender für (fast) den ganzen Dezember
 
-EA EA-Sports-FIFA-Spielehülle
+EA_ EA-Sports-FIFA-Spielehülle
 EB
-EC EC-Karte
+EC_ EC-Karte
 ED
 EE
-EF
-EG Egal/ Wendler auf Boot
+EF_ Efeu
+EG_ Civic EG
 EH
-EI Ei
+EI_ Ei
 EJ
-EK
-EL Elefant
-EM
+EK_ Einkaufswagen
+EL_ Elefant
+EM Emel
 EN
 EO
 EP
-EQ
-ER
-ES Eskimo
-ET ET
-EU EU-Flagge
-EV Elektroauto
-EW Einkaufswagen
-EZ
+EQ_ (Climbing) Equipment
+ER_ Emergency Room (Irmi in der Notaufnahme)
+ES_ Scary Clown (ES)
+ET_ ET
+EU_ EU-Flagge
+EV_ Elektroauto
+EW_ Johannes Ew.
+EZ Eiszapfen
 
-FA Fabi
+FA_ Fabi
 FB
-FC FC Bayern-Spieler
-FD FD RX7 (rotary brap)
-FE
-FF Flipflop
-FG
-FH FH-Gebäude Wü
+FC_ FC_ Bayern-Spieler
+FD_ FD_ RX7 (rotary brap)
+FE Feli
+FF_ Flipflop
+FG_ Family Guy (the dad)
+FH_ FH-Gebäude Wü
 FI Fisch
-FJ
-FK
-FL Falafelbällchen
-FM
-FN
+FJ_ Toyota FJ_ Cruiser
+FK Civic Type R FK8
+FL_ Front Lever
+FM Radio
+FN big fan (Ventilator)
 FO
-FP
+FP Felix H. (lehrt Functional Programming)
 FQ
 FR
-FS
-FT FT-Zeitung
+FS Fass
+FT_ FT-Zeitung
 FU Fuchs
-FV
-FW Feuerwehr
-FZ Felix Z.
+FV_ FOV-Slider
+FW_ Feuerwehr
+FZ_ Felix Z.
 
-GA Gaga
+GA_ Gaga
 GB
-GC
+GC_ Garbaga Collector Truck
 GD
-GE
+GE GERT (brennender Weihnachtsbaumhaufen)
 GF
 GG Golden Gate Bridge
-GH
+GH Gehhilfe
 GI
 GJ
-GK
+GK_ Gecko
 GL Gleis 9 3/4
-GM Gollum
-GN
+GM_ GM_ Corvette
+GN GAN mirror cube
 GO Goldbarren
 GP
 GQ
-GR GR Yaris (Maxi)
-GS Golfschläger
-GT Golftasche
+GR_ GR_ Yaris (Maxi)
+GS_ Gus (breaking bad)
+GT_ AMG_ GT
 GU
 GV
-GW
-GZ M. Gaz (Parkour)
+GW Gehweg
+GZ_ GEZ-Brief
 
-HA Nelson HAHA
+HA_ Nelson HAHA
 HB
-HC
-HD Harddrive
-HE
-HF Helga&Fritz
-HG Quecksilberröhre
-HH
-HI
-HJ
-HK HK G36
+HC Hacker (mit Maske)
+HD_ Harddrive
+HE Henri
+HF_ Helga&Fritz
+HG_ Quecksilberröhre
+HH_ Hamburg Fischbrötchen
+HI Hai
+HJ Hitschler Kaubonbons
+HK_ HK_ G36
 HL Headlights
-HM Hümmersteaks
-HN
-HO
-HP
-HQ Headquarter
-HR
-HS Handstand (Chris Erfurt)
-HT Hut
+HM_ Hilmar M.
+HN_ Hahn/Huhn
+HO Minecraft diamond hoe
+HP Harry Potter
+HQ_ Headquarter
+HR Primeagen HR department
+HS_ Handstand (Chris Erfurt)
+HT_ Hut
 HU Hund
-HV
-HW
+HV Bienenstock (Hive)
+HW Alte Computerhardware
 HZ Hazelnut
 
-IA Esel
-IB
-IC Integrated Circuit
-ID Ausweisdokument
+IA_ Esel
+IB IBU
+IC_ ICE
+ID_ Ausweisdokument
 IE
-IF
-IG Iglu
-IH
+IF Marian If.
+IG_ Iglu
+IH Malte Ih.
 II
-IJ Injection (Spritze)
-IK IKEA
-IL
+IJ_ Injection (Spritze)
+IK_ Ikarus
+IL Tim als Modell für Ilmenau
 IM Iron Man
-IN
-IO 
-IP Ipod
-IQ IQ (Albert Einstein)
-IR
-IS
-IT IT-Spezialist mit Laptop
+IN Inder
+IO
+IP_ Ipod
+IQ_ IQ_ (Albert Einstein)
+IR_ Infrarotlampe
+IS_ ISS
+IT_ IT-Spezialist mit Laptop
 IU
-IV Elfenbeinturm (ivory)
-IW
-IZ
+IV_ Elfenbeinturm (ivory)
+IW_ Indischer Wal (Mit Headset, "Hello I'm under the water")
+IZ_ Itz
 
 JA Jaguar F-Type
-JB Jack Black
+JB_ Jack Black
 JC John Cena
 JD Jedi (Anakin)
 JE Jerry (Tom und Jerry)
 JF J.F. Kennedy
-JG
+JG_ Johannes G.
 JH Jabba the Hut
-JI
-JJ Prof. JJ
-JK Julia K.
+JI Glocken (Jingle Bells)
+JJ_ Prof. JJ
+JK_ Julia K.
 JL
-JM
+JM Jam (Marmelade)
 JN
-JO Johannes K.
-JP JP Performance
-JQ
-JR JR Cuber
+JO_ Johannes K.
+JP_ JP_ Performance
+JQ Whirlpool (Jacuzzi, Jaquzzi)
+JR_ JR_ Cuber
 JS Jessi
-JT
-JU Jule
-JV "Java ist auch eine Insel"-Buch
+JT_ Jet
+JU_ Jule
+JV_ Justizvollzugsanstalt/Gefängnis
 JW Jew
-JZ Jay Z (99 problems)
+JZ_ Jay Z (99 problems)
 
-KA Kamel
-KB Keyboard
-KC
-KD
+KA_ Ford Ka
+KB Kettlebell
+KC Kackhaufen
+KD (little) kid
 KE Ketchup
-KF KFC
-KG Kyle Gass
+KF_ KFC
+KG_ Kyle Gass
 KH
 KI King Kong
-KJ 
-KK KKK
-KL
-KM Kermit Frog
-KN
-KO Koala
-KP
+KJ
+KK_ KKK
+KL_ Klaus L.
+KM_ Odometer mit vielen Kilometern
+KN K&N-Luftfilter
+KO_ KO-Tropfen
+KP Kapitän
 KQ
-KR
+KR Krosse Krabbe
 KS
 KT
 KU Kuh
 KV Kevlarweste
-KW Kiwi
-KZ Katze
+KW_ KW-Fahrwerk lila
+KZ_ Katze
 
-LA Lara
-LB Lube (Angstrom)
+LA_ Lara
+LB_ Lube (Angstrom)
 LC
 LD
-LE
-LF
+LE Leni
+LF Leaf
 LG Lego
-LH
-LI Lukas I.
-LJ
-LK Glücksfee/Luck
-LL
-LM
-LN
-LO Lon
-LP Gronkh (Let's Play)
+LH_ Lukas H.
+LI_ Lukas I.
+LJ Leine (Leash, Leaj)
+LK_ Glücksfee/Luck
+LL_ Ball
+LM Lemon
+LN Lon
+LO London Riesenrad
+LP_ Gronkh (Let's Play)
 LQ lustige Qualle
-LR
-LS
-LT
-LU Lukas (ich)
-LV Lava
-LW
-LZ Adam LZ
+LR Lederrock
+LS_ Laster
+LT_ Linus (Techtips)
+LU_ Lukas (ich)
+LV_ Lava
+LW_ Lawine
+LZ_ Adam LZ
 
-MA Mango
-MB Mercedes Benz (A-Klasse)
-MC MCB (Leni)
+MA_ Masterarbeit
+MB_ Mountain Bike
+MC Minecraft Steve
 MD Mountain Dew
 ME Meth (Jesse Pinkman)
-MF Samuel L. Jackson MF
-MG MGF, türkis, von Niko
-MH M. Hardy
+MF_ Samuel L. Jackson MF
+MG_ MGF, türkis, von Niko
+MH_ M. Hardy
 MI Michi
-MJ MJ (Spiderman)
-MK
-ML Mona Lisa
-MM Michael M.
-MN
+MJ_ MJ_ (Spiderman)
+MK_ it's easy, mkay (Southpark teacher)
+ML_ Mona Lisa
+MM_ Michael M.
+MN_ Michael N.
 MO Mord/Mörder
-MP Max Park
+MP_ Max Park
 MQ Mosquito
-MR
-MS Martin S.
-MT
-MU
-MV
-MW
-MZ Marwin Z.
+MR_ Pfarrer "should I call you Mista?"
+MS_ Martin S.
+MT Mountain
+MU Mucke
+MV_ Movie (DVD-Hülle)
+MW_ Mikrowelle
+MZ_ Marwin Z.
 
-NA Narbe
-NB
-NC Nic (Parkour)
+NA_ NA_ V8 Motor
+NB_ MX-5 NB
+NC_ Nic (Parkour)
 ND
-NE
+NE_ "Nee, lügen darf man nicht sagen"-Kind
 NF
-NG
-NH Samira, die "nh" sagt
-NI
-NJ
-NK Nik (Parkour Lissabon)
-NL
-NM
-NN
-NO
-NP
-NQ
-NR
-NS
-NT
-NU
-NV
-NW
-NZ
+NG Chicken Nugget
+NH_ Samira, die "nh" sagt
+NI Nixe
+NJ Sandra mit der Nische
+NK_ Nik (Parkour Lissabon)
+NL Nilpferd
+NM Nemo
+NN_ Nuno  
+NO Notar
+NP_ Prof. TheoInf, NP-schwer
+NQ Nachtquartier (am Kochelsee)
+NR_ Paul with Clock National Record Time
+NS Nachtsichtgerät
+NT Nut
+NU Nutella
+NV_ NVME-Drive
+NW Isaac Newton
+NZ_ Netz
 
-OA
+OA Oase
 OB Obi-Wan
-OC
+OC_ Glühende CPU_ vom Overclock
 OD
 OE
-OF
-OG
-OH OH-Solver Mangus
+OF_ OnlyFans-Modell
+OG_ Oger (Shrek)
+OH_ OH-Solver Mangus
 OI
-OJ
+OJ Ozeanjacht
 OK
-OL
-OM
-ON
+OL_ Öl(kanister)
+OMi  Oma Renate
+ON_ Onion
 OO
 OP Oppenheimer
 OQ
-OR Oreo
-OS
+OR_ Oreo
+OS Strauß
 OT
-OU
-OV
-OW Owl
-OZ Zauberer von OZ
+OU Orangutan
+OV Olive
+OW_ Owl
+OZ_ Zauberer von OZ
 
-PA
-PB Bleiweste
-PC Computer
-PD
-PE
-PF
-PG
-PH pH-Indikator
-PI Pizza
-PJ Pyjama
-PK Parkour (Gerüstaufbau)
-PL
-PM
-PN
-PO Polizei
-PP Pendelndes Pendel
-PQ Papierqualle
-PR Perry Rhodan/Kugelraumschiff
-PS
-PT PT-Cruiser
-PU
-PV Photovoltaik/Solarzelle
-PW
-PZ PEZ Brausebonbons
+PA_ Papagei
+PB_ Bleiweste
+PC_ Computer
+PD_ Podracer
+PE Pepe frog
+PF_ Pfeil (und Bogen)
+PG Pig
+PH_ pH-Indikator
+PI_ Pi-Symbol
+PJ_ Pyjama
+PK_ Parkour (Gerüstaufbau)
+PL_ Polenböller
+PM Pomegranate
+PN Pin-Code-Eingabefeld
+PO_ Polizei
+PP_ Pendelndes Pendel
+PQ F1 car (parc/parque ferme)
+PR_ Perry Rhodan/Kugelraumschiff
+PS Postauto
+PT_ PT-Cruiser
+PU_ PU-Querlenker-Buchsen (lila)
+PV_ Photovoltaik/Solarzelle
+PW Mario-Kart POW-Block
+PZ_ Pizza
 
 QA Quad
-QB Quarterback (Footballspieler)
-QC Quadrocopter/Drohne
+QB_ Quarterback (Footballspieler)
+QC_ Quadrocopter/Drohne
 QD Quidditch (fliegender Besen)
-QE Quelle
+QE Queen
 QF Quadratfuß
 QG
 QH Quallenherde
-QI Qi Gong Sandra
+QI Qui Gon Jinn
 QJ Quallenjoghurt
 QK Quetschkommode (zusammendrückbar für kleine Räume)
 QL Qualle
 QM QMK-Tastatur (crkbd)
 QN Quinoa-Nudeln
-QO
-QP Kaulquappe
-QQ Quiz Queen
-QR Quallenrestaurant
+QO Quotationmarks
+QP_ Kaulquappe
+QQ_ Quiz Queen
+QR_ QR-Code
 QS Quality of Service (Netzwerk Switch)
 QT Quattro (Walter Röhrl Audi S1)
-QU Quarzuhr (Armbanduhr)
-QV Alfa Romeo Giulia QV
-QW
+QU Quarzuhr (Wanduhr)
+QV_ Alfa Romeo Giulia QV
+QW QWERTZ-Tastatur
 QZ Quarzkristall
 
-RA Ratte
-RB
-RC RC car
-RD
-RE
-RF
-RG
+RA_ Ra Sonnengott
+RB_ RB_ agilis
+RC_ RC_ car
+RD Rad
+RE_ RE_ doppeldecker
+RF_ RF_ Antenne
+RG_ RG_ Sec. (Aleks)
 RH Rohan Reitervolk
-RI
-RJ RJ-45 LAN-Kabel
-RK Reck
-RL
+RI Ring
+RJ_ RJ-45 LAN-Kabel
+RK_ Reck
+RL_ Robert L.
 RM RAM-Stick
-RN
-RO
-RP
-RQ
-RR
-RS
-RT
-RU Russisch Roulette
-RV
-RW
-RZ RZ Jens
+RN Ron Weasley
+RO Rolex
+RP RIP Grabstein
+RQ Raclette Raqlette
+RR_ Rolls Royce
+RS_ RS6 Kombi
+RT Ritter
+RU_ Russisch Roulette
+RV_ Wohnwagen
+RW Rowing boat
+RZ_ RZ_ Jens
 
 SA Satan
-SB
-SC
-SD SD-Karte
-SE Simon E.
-SF Schiff
-SG Segway
-SH Stonehenge
-SI
+SB_ Selbstbedienungsbuffet
+SC_ Scissors
+SD_ SD-Karte
+SE_ Simon E.
+SF_ Schiff
+SG_ Säge
+SH Stefan H.
+SI Sichel
 SJ Steve Jobs
-SK
-SL
+SK_ Samuel K.
+SL_ Mercedes SL
 SM Spiderman
-SN
-SO
+SN Sun
+SO Socke
 SP Spaghetti
-SQ Square-1
+SQ_ Square-1
 SR
-SS Silver Soffi
-ST
-SU SUV
-SV Saftverkäufer (aus Darmstadt)
-SW Schwert
-SZ
+SS_ Silver Soffi
+ST_ Focus ST_ (5zyl)
+SU_ Subaru
+SV_ Saftverkäufer (aus Darmstadt)
+SW_ Person aus Schweinfurt
+SZ Johannes Sz.
 
-TA
-TB Tower Bridge
+TA Tarzan
+TB_ Schlüsseldienstmensch vom TB
 TC
 TD
-TE Tee(tasse)
-TF Tiefighter
+TE_ Tee(tasse)
+TF_ Tiefighter
 TG
 TH
-TI
+TI Roboter von Titanfall
 TJ Trojanischer Pferd
-TK Tymon Kolsinski
+TK_ Tiefkühlgemüsepackung
 TL
-TM
-TN TNT
+TM Tymon
+TN_ TNT
 TO Tom (Tom und Jerry)
-TP Teleporter
+TP_ Thomas P.
 TQ Tequila
-TR Traktor
-TS Tom S.
-TT Audi TT
-TU
-TV Fernseher
-TW Tow Truck
-TZ
+TR_ Traktor
+TS_ Tom S.
+TT_ Audi TT
+TU Turbolader
+TV_ Fernseher
+TW_ Tow Truck
+TZ Bärentatze
 
-UA
+UA UAE Scheich
 UB U-Boot
 UC
-UD
+UD Undefined
 UE
-UF UFO
+UF_ UFO
 UG
-UH
+UH Uhu-Kleber
 UI
 UJ
-UK
+UK_ Ukulele
 UL
 UM
-UN Uno +4
+UN_ UN-Soldat (Blauhelm)
 UO
-UP UPS truck
+UP_ UPS_ truck
 UQ
 UR Uno Reverse Card
-US freedom eagle
+US_ freedom eagle
 UT
 UU
-UV Sonnencreme/UV-Licht
-UW Uwe F.
-UZ Uzi
+UV_ Sonnencreme/UV-Licht
+UW_ Uwe F.
+UZ_ Uzi
 
 VA Vampir
-VB Vanessa B.
+VB_ Vanessa B.
 VC
 VD Vin Diesel
 VE
 VF
 VG
 VH
-VI VIN-Nummer-Plakette
+VI Visier
 VJ 70 Virgins (Virjins)
 VK Viking boat
-VL
-VM Venom (Spiderman)
-VN 
-VO
+VL_ Veronika L.
+VM_ Venom (Spiderman)
+VN_ VIN-Nummer-Plakette
+VO Vorfahrt gewähren-Schild
 VP VIP-Badge
 VQ
-VR VR-Brille
-VS Vase
-VT Vault 76
-VU Verkehrsunfall
-VV Volvo Kastenwagen
-VW VW Golf
-VZ
+VR_ VR-Brille
+VS_ Schreibtischstuhl von VS
+VT_ Veit Papierrolle
+VU_ Verkehrsunfall
+VV_ Volvo Kastenwagen
+VW_ VW_ Golf
+VZ Verkleidete Faschingsmenschen (VeiZhöchheim)
 
-WA Wald
-WB Wasserball
-WC WC
-WD WD-40
-WE Welle
-WF Wasserfall
-WG WG-Bewohner
+WA Wario
+WB Web (Spinnennetz)
+WC_ WC
+WD_ WD-40
+WE_ Dicker Mann "Hoch die Hände, Wochenende"
+WF_ Fritzbox Wifi-Router
+WG_ WG-Bewohner
 WH Wasserhahn
 WI Wiener Schnitzel
 WJ Kartoffel Wedges
-WK Wasserkocher 
-WL Wal
-WM WM-Pokal
-WN
+WK Wecker 
+WL Well (Brunnen)
+WM_ WM-Pokal
+WN Window
 WO Wok
-WP
+WP Trampolin aus Wildpark Tambach
 WQ
-WR
+WR_ Stackmat Timer mit WR-Zeit
 WS
 WT
-WU
-WV
-WW Walther White
-WZ White Wizard Gandalf
+WU Wurst
+WV_ Silikon-Waver
+WW_ Walther White
+WZ_ White Wizard Gandalf
 
-ZA Zahnarzt
-ZB Zuckerburg
+ZA_ Zahnarzt
+ZB Mark Zuckerburg
 ZC Zucchini
 ZD Zelda
 ZE Zement
-ZF Kupplung von ZF
+ZF_ Kupplung von ZF
 ZG Zigarre
 ZH
 ZI Zitteraal (Elektroschock)
-ZJ
+ZJ Zirkus Jongleur
 ZK
 ZL
 ZM Zimt(schote)
-ZN Zaun
-ZO Zombie
+ZN Zaun aus Zinn
+ZO_ Zombie
 ZP Zippo (Sammlung Sebastian)
 ZQ
 ZR
-ZS Zeus
+ZS Ziska Sappralot
 ZT Zaubertrank (Minecraft)
 ZU Zurg (Buzz Lightyear)
-ZV
+ZV Zivilpolizist
 ZW Zuckerwürfel
-ZZ Zuza
+ZZ_ Zuza
