@@ -1,5 +1,3 @@
-Wörter für alle Buchstabenpaare:
-
 AA_ Aal
 AB_ Andre B.
 AC_ ACDC
@@ -83,10 +81,10 @@ DE Deutschlandflagge
 DF
 DG_ Daniel G.
 DH
-DI
+DI Dinosaurier
 DJ_ DJ
 DK_ Diana
-DL
+DL Dell (XPS 13)
 DM Dom
 DN_ DNM-37
 DO_ Dortmund JP_ Gebäude
@@ -97,24 +95,24 @@ DS_ Nintendo DS
 DT_ Distrotube
 DU_ Duplo
 DV Deja Vu (drifting AE86)
-DW
+DW Zündkerzen (dwell time)
 DZ Weihnachtskalender für (fast) den ganzen Dezember
 
 EA_ EA-Sports-FIFA-Spielehülle
-EB
+EB Eisbär
 EC_ EC-Karte
 ED
-EE
+EE EEG-Display
 EF_ Efeu
 EG_ Civic EG
-EH
+EH Ehepaar
 EI_ Ei
-EJ
+EJ Schleudersitz (Eject)
 EK_ Einkaufswagen
 EL_ Elefant
 EM Emel
-EN
-EO
+EN Atomares Endlager
+EO Phil Yu (doing EO)
 EP
 EQ_ (Climbing) Equipment
 ER_ Emergency Room (Irmi in der Notaufnahme)
@@ -126,7 +124,7 @@ EW_ Johannes Ew.
 EZ Eiszapfen
 
 FA_ Fabi
-FB
+FB Fußballstadion (Allianzarena)
 FC_ FC_ Bayern-Spieler
 FD_ FD_ RX7 (rotary brap)
 FE Feli
@@ -158,25 +156,25 @@ GE GERT (brennender Weihnachtsbaumhaufen)
 GF
 GG Golden Gate Bridge
 GH Gehhilfe
-GI
+GI Pyramide (Gizeh)
 GJ
 GK_ Gecko
 GL Gleis 9 3/4
 GM_ GM_ Corvette
 GN GAN mirror cube
 GO Goldbarren
-GP
-GQ
+GP Race Engineer Gianpiero Lambiase
+GQ Gehirnquetschung
 GR_ GR_ Yaris (Maxi)
 GS_ Gus (breaking bad)
 GT_ AMG_ GT
-GU
-GV
+GU Gurke
+GV Geringverdiener (Luis)
 GW Gehweg
 GZ_ GEZ-Brief
 
 HA_ Nelson HAHA
-HB
+HB Haaabiiiicht (9live)
 HC Hacker (mit Maske)
 HD_ Harddrive
 HE Henri
@@ -236,7 +234,7 @@ JH Jabba the Hut
 JI Glocken (Jingle Bells)
 JJ_ Prof. JJ
 JK_ Julia K.
-JL
+JL Wackelpudding (Jelly)
 JM Jam (Marmelade)
 JN
 JO_ Johannes K.
@@ -269,7 +267,7 @@ KP Kapitän
 KQ
 KR Krosse Krabbe
 KS
-KT
+KT Ralf R. vom KIT
 KU Kuh
 KV Kevlarweste
 KW_ KW-Fahrwerk lila
@@ -585,8 +583,8 @@ ZG Zigarre
 ZH
 ZI Zitteraal (Elektroschock)
 ZJ Zirkus Jongleur
-ZK
-ZL
+ZK Zecke
+ZL Gitterstäbe (Zelle)
 ZM Zimt(schote)
 ZN Zaun aus Zinn
 ZO_ Zombie
@@ -599,3 +597,6 @@ ZU Zurg (Buzz Lightyear)
 ZV Zivilpolizist
 ZW Zuckerwürfel
 ZZ_ Zuza
+
+
+
