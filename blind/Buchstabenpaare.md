@@ -49,7 +49,7 @@ BW Belugawal
 BZ Buzz Lightyear
 
 CA Calzone
-CB Chess Board
+CB Cheeseburger
 CC_ Mario-Kart 150cc
 CD_ CD-ROM
 CE Centmünze
@@ -78,7 +78,7 @@ DB_ Deutsche Bahn Zug
 DC_ Netzteil Gleichspannung
 DD_ Dresden (Demonstrantenmenge)
 DE Deutschlandflagge
-DF
+DF Dwarf LOTR
 DG_ Daniel G.
 DH
 DI Dinosaurier
@@ -101,7 +101,7 @@ DZ Weihnachtskalender für (fast) den ganzen Dezember
 EA_ EA-Sports-FIFA-Spielehülle
 EB Eisbär
 EC_ EC-Karte
-ED
+ED Ed Sheeran
 EE EEG-Display
 EF_ Efeu
 EG_ Civic EG
@@ -137,10 +137,10 @@ FK Civic Type R FK8
 FL_ Front Lever
 FM Radio
 FN big fan (Ventilator)
-FO
+FO Fork
 FP Felix H. (lehrt Functional Programming)
-FQ
-FR
+FQ Lord Farquaad
+FR French Croissant and Baguette
 FS Fass
 FT_ FT-Zeitung
 FU Fuchs
@@ -149,11 +149,11 @@ FW_ Feuerwehr
 FZ_ Felix Z.
 
 GA_ Gaga
-GB
+GB Gameboy
 GC_ Garbaga Collector Truck
-GD
+GD God
 GE GERT (brennender Weihnachtsbaumhaufen)
-GF
+GF Garfield
 GG Golden Gate Bridge
 GH Gehhilfe
 GI Pyramide (Gizeh)
@@ -206,13 +206,13 @@ IE
 IF Marian If.
 IG_ Iglu
 IH Malte Ih.
-II
+II Auge/Eye
 IJ_ Injection (Spritze)
 IK_ Ikarus
 IL Tim als Modell für Ilmenau
 IM Iron Man
 IN Inder
-IO
+IO Mainboard IO Shield
 IP_ Ipod
 IQ_ IQ_ (Albert Einstein)
 IR_ Infrarotlampe
@@ -236,7 +236,7 @@ JJ_ Prof. JJ
 JK_ Julia K.
 JL Wackelpudding (Jelly)
 JM Jam (Marmelade)
-JN
+JN Jeans
 JO_ Johannes K.
 JP_ JP_ Performance
 JQ Whirlpool (Jacuzzi, Jaquzzi)
@@ -257,14 +257,14 @@ KF_ KFC
 KG_ Kyle Gass
 KH
 KI King Kong
-KJ
+KJ Kim Jong Un
 KK_ KKK
 KL_ Klaus L.
 KM_ Odometer mit vielen Kilometern
 KN K&N-Luftfilter
 KO_ KO-Tropfen
 KP Kapitän
-KQ
+KQ Schach (King & Queen)
 KR Krosse Krabbe
 KS
 KT Ralf R. vom KIT
@@ -326,9 +326,9 @@ MZ_ Marwin Z.
 NA_ NA_ V8 Motor
 NB_ MX-5 NB
 NC_ Nic (Parkour)
-ND
+ND Glöckner von Notre Dame
 NE_ "Nee, lügen darf man nicht sagen"-Kind
-NF
+NF Knife
 NG Chicken Nugget
 NH_ Samira, die "nh" sagt
 NI Nixe
