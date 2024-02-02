@@ -157,7 +157,7 @@ GF Garfield
 GG Golden Gate Bridge
 GH Gehhilfe
 GI Pyramide (Gizeh)
-GJ
+GJ Gulasch/Gulaj
 GK_ Gecko
 GL Gleis 9 3/4
 GM_ GM_ Corvette
@@ -202,7 +202,7 @@ IA_ Esel
 IB IBU
 IC_ ICE
 ID_ Ausweisdokument
-IE
+IE Spiegelei (EI gespiegelt)
 IF Marian If.
 IG_ Iglu
 IH Malte Ih.
@@ -255,7 +255,7 @@ KD (little) kid
 KE Ketchup
 KF_ KFC
 KG_ Kyle Gass
-KH
+KH Karl-Heinz Fahrlehrer
 KI King Kong
 KJ Kim Jong Un
 KK_ KKK
@@ -266,7 +266,7 @@ KO_ KO-Tropfen
 KP Kapitän
 KQ Schach (King & Queen)
 KR Krosse Krabbe
-KS
+KS Kalksantstein
 KT Ralf R. vom KIT
 KU Kuh
 KV Kevlarweste
@@ -356,9 +356,9 @@ OE
 OF_ OnlyFans-Modell
 OG_ Oger (Shrek)
 OH_ OH-Solver Mangus
-OI
+OI Eukalyptos, Koala
 OJ Ozeanjacht
-OK
+OK Oberkörper (Nachts im Museum, Ted Roosevelt)
 OL_ Öl(kanister)
 OMi  Oma Renate
 ON_ Onion
@@ -465,7 +465,7 @@ SN Sun
 SO Socke
 SP Spaghetti
 SQ_ Square-1
-SR
+SR Stabile Ratte
 SS_ Silver Soffi
 ST_ Focus ST_ (5zyl)
 SU_ Subaru
@@ -475,12 +475,12 @@ SZ Johannes Sz.
 
 TA Tarzan
 TB_ Schlüsseldienstmensch vom TB
-TC
-TD
+TC Tommy Cherry
+TD Toad
 TE_ Tee(tasse)
 TF_ Tiefighter
-TG
-TH
+TG TIG welder
+TH Thanos
 TI Roboter von Titanfall
 TJ Trojanischer Pferd
 TK_ Tiefkühlgemüsepackung
@@ -500,25 +500,25 @@ TZ Bärentatze
 
 UA UAE Scheich
 UB U-Boot
-UC
+UC Unicorn
 UD Undefined
 UE
 UF_ UFO
 UG
 UH Uhu-Kleber
 UI
-UJ
+UJ Ouija board
 UK_ Ukulele
 UL
 UM
 UN_ UN-Soldat (Blauhelm)
 UO
 UP_ UPS_ truck
-UQ
+UQ Uruk-Hai
 UR Uno Reverse Card
 US_ freedom eagle
 UT
-UU
+UU UU
 UV_ Sonnencreme/UV-Licht
 UW_ Uwe F.
 UZ_ Uzi
@@ -529,8 +529,8 @@ VC
 VD Vin Diesel
 VE
 VF
-VG
-VH
+VG Veganerin
+VH VHS-Kassette
 VI Visier
 VJ 70 Virgins (Virjins)
 VK Viking boat
@@ -590,7 +590,7 @@ ZN Zaun aus Zinn
 ZO_ Zombie
 ZP Zippo (Sammlung Sebastian)
 ZQ
-ZR
+ZR Zorro
 ZS Ziska Sappralot
 ZT Zaubertrank (Minecraft)
 ZU Zurg (Buzz Lightyear)
